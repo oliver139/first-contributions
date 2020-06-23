@@ -9,10 +9,10 @@
 - rahul123@
 - jenny heyyy
 - aslam khan
-- [Iqra Muhammad](https://github.com/cemeiq)	
+- [Iqra Muhammad](https://github.com/cemeiq)
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
-- oliver_hei
+- oliver139
 - [Jane Muthoni](https://github.com/muchirijane)
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
@@ -2143,7 +2143,7 @@
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
 - [Selam Gessese](https://github.com/sygessese)
-- [Sachin Diwate](https://github.com/dsachin) 
+- [Sachin Diwate](https://github.com/dsachin)
 - [Sukritee Shrivastava](https://github.com/sukritee)
 - [Steven Rouk](https://github.com/stevenrouk)
 - [Bexx Modebadze](http://gituhub.com/bexxmodd)
